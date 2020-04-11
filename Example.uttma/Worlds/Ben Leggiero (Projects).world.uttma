@@ -1,0 +1,13 @@
+{
+	"meta": {
+		"format-version": "0.0.0",
+		"format-identifier": "org.bhstudios.uttma.world"
+	},
+	"world": {
+		"name": "Ben Leggiero (Projects)",
+		"id": "b2eab27f-f3f1-426d-a057-76f8f735c08d"
+	},
+	"groups": [
+		"3cfd620a-a9db-4520-bedc-eb08c5629714"
+	]
+}

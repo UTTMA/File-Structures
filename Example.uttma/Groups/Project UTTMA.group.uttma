@@ -1,0 +1,16 @@
+{
+	"meta": {
+		"format-version": "0.0.0",
+		"format-identifier": "org.bhstudios.uttma.group"
+	},
+	"group": {
+		"name": "Project UTTMA",
+		"id": "3cfd620a-a9db-4520-bedc-eb08c5629714",
+		"parent-world-id": "b2eab27f-f3f1-426d-a057-76f8f735c08d"
+	},
+	"tasklists": [
+		"df1fb3ac-86ef-42a7-9356-f473ff090f5e"
+	],
+	"subgroups": [
+	]
+}

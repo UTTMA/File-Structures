@@ -1,0 +1,20 @@
+{
+	"meta": {
+		"format-version": "0.0.0",
+		"format-identifier": "org.bhstudios.uttma.task"
+	},
+	"task": {
+		"id": "d45fc917-3893-4f47-ae2e-a70c7eab48b5",
+		"parent-task-or-tasklist-id": "",
+		"tags": [
+			{
+				"type": "uttma:title",
+				"value": "Define file structure"
+			},
+			{
+				"type": "uttma:priority",
+				"value": "Immediate"
+			}
+		]
+	}
+}
