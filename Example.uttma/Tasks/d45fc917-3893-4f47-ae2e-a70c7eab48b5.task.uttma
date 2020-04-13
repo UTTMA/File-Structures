@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"format-version": "0.0.0",
+		"format-version": "0.1.0",
 		"format-identifier": "org.bhstudios.uttma.task"
 	},
 	"task": {
@@ -8,12 +8,24 @@
 		"parent-task-or-tasklist-id": "281edd5c-ce04-40e6-a3ba-f43efd511204",
 		"tags": [
 			{
-				"type": "uttma:title",
+				"type": "uttma:Title",
 				"value": "Define file structure"
 			},
 			{
-				"type": "uttma:priority",
+				"type": "uttma:Priority",
 				"value": "Immediate"
+			},
+			{
+				"type": "uttma:Filing Date",
+				"value": "1586565409"
+			},
+			{
+				"type": "uttma:Start Date",
+				"value": "1586406170"
+			},
+			{
+				"type": "uttma:Target Completion Date",
+				"value": "1598896800"
 			}
 		]
 	}
